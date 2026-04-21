@@ -8,8 +8,8 @@ Course Title: Data Structures
 Course Code: ETCCDS202
 Unit Number: 2
 Unit Title: Linear Data Structures
-Student Name: SWATI SINGH
-Roll No: 2501730269
+Student Name: Samarth Sharma
+Roll No: 2501730279
 Section: A'''
 
 
